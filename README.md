@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+%F0%9F%96%90;This+is+Vaiz+Hasan.;Software+Engineer+%F0%9F%92%BB;Full+stack+Developer&color=33f0ff&weight=900&font=Fira%20Code&center=true&width=435&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/VaizHasan/count.svg"/>
+</p>
+
 # 💫 About Me:
 Hello, I'm Vaiz Hasan, a software engineering student at NED University in Karachi. I specialize in full-stack development, with a strong focus on React, Node.js, and PostgreSQL. I'm passionate about cloud technologies, artificial intelligence, and space, and I aim to create scalable and impactful solutions. I'm always eager to learn new things and collaborate on innovative projects. Feel free to check out my work!
 
@@ -10,9 +19,9 @@ Hello, I'm Vaiz Hasan, a software engineering student at NED University in Karac
 ![snake gif](https://github.com/VaizHasan/VaizHasan/blob/output/github-snake-dark.svg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VaizHasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VaizHasan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaizHasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=VaizHasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VaizHasan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaizHasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VaizHasan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -21,7 +30,7 @@ Hello, I'm Vaiz Hasan, a software engineering student at NED University in Karac
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VaizHasan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=VaizHasan&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VaizHasan&icon=0&color=0)](https://visitcount.itsvg.in)
