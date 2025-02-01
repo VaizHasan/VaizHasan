@@ -8,7 +8,7 @@
 </p>
 
 # 💫 About Me:
-Hello, I'm Vaiz Hasan, a software engineering student at NED University in Karachi. I specialize in full-stack development, with a strong focus on React, Node.js, and PostgreSQL. I'm passionate about cloud technologies, artificial intelligence, and space, and I aim to create scalable and impactful solutions. I'm always eager to learn new things and collaborate on innovative projects. Feel free to check out my work!
+Hi, I’m Vaiz Hasan, a Software Engineering student at NED University in Karachi. I am currently focused on full-stack development using the MERN stack. Feel free to explore my work.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaizhasan)
